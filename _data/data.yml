@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email:
     phone:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website: neilkoch.com #do not add http://
+    linkedin: neilkoch
     xing:
     github: neilkoch
     telegram: # add your nickname without '@' sign
@@ -27,14 +27,14 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
-    languages:
-      - idiom: 
+    languages: 
+      - idiom: #
         level: 
 
-      - idiom: 
+      - idiom: #
         level: 
 
-      - idiom: 
+      - idiom: #
         level: 
 
     interests:
@@ -170,19 +170,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Solutions Architecture
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Technical Sales/ Sales Engineering
         level: 98%
 
-      - name: Angular
+      - name: Enterprise Sales
+        level: 98%
+      
+      - name: Microsoft Azure
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Cloud Solutions
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Azure Virtual Desktop solutions
         level: 85%
 
       - name: Sketch & Photoshop
